@@ -1,5 +1,5 @@
 {
-  "name": "network_core",
+  "name": "network-core",
   "version": "0.1.0",
   "description": "Polex Network Core Function",
   "main": "index.js",
